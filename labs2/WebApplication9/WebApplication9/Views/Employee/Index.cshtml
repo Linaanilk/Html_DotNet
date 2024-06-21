@@ -1,0 +1,46 @@
+﻿@model WebApplication9.Models.Employee
+<style>
+    .field-validation-error{
+        color:red;
+       
+    }
+
+  .input-validation-error
+  {
+      border:1px solid red
+  }
+
+    .validation-summary-errors {
+       color:red
+    }
+</style>
+<section>
+    <h1>Add Employee</h1>
+    @using(Html.BeginForm("SubmitForm","Employee",FormMethod.Post))
+    {
+       
+            @Html.ValidationSummary()
+       
+        <div>
+            @Html.DisplayNameFor(x=>x.FirstName)
+            @Html.TextBoxFor(x=>x.FirstName)
+            @Html.ValidationMessageFor(x=>x.FirstName)
+        </div>
+          <div>
+            @Html.DisplayNameFor(x=>x.LastName)
+            @Html.TextBoxFor(x=>x.LastName)
+            @Html.ValidationMessageFor(x => x.LastName)
+        </div>
+        <div>
+            @Html.DisplayNameFor(x => x.Email)
+            @Html.TextBoxFor(x => x.Email)
+            @Html.ValidationMessageFor(x => x.Email)
+        </div>
+        <div>
+            @Html.DisplayNameFor(x => x.Age)
+            @Html.TextBoxFor(x => x.Age)
+            @Html.ValidationMessageFor(x => x.Age)
+        </div>
+        <input type="submit" value="submit"/>
+    }
+</section>

@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\ShapeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\ShapeDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\ShapeDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\ShapeDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\ShapeDemo\bin\Debug\net6.0\ShapeDemo.exe
+C:\HTML\labs2\HelloWorld\ShapeDemo\bin\Debug\net6.0\ShapeDemo.deps.json
+C:\HTML\labs2\HelloWorld\ShapeDemo\bin\Debug\net6.0\ShapeDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\ShapeDemo\bin\Debug\net6.0\ShapeDemo.dll
+C:\HTML\labs2\HelloWorld\ShapeDemo\bin\Debug\net6.0\ShapeDemo.pdb
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\ShapeDemo.dll
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\refint\ShapeDemo.dll
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\ShapeDemo.pdb
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\ShapeDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\ShapeDemo\obj\Debug\net6.0\ref\ShapeDemo.dll

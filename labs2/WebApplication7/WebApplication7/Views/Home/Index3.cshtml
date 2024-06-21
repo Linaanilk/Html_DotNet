@@ -1,0 +1,19 @@
+﻿
+<h1>ViewBag</h1>
+<table style="border: 1px solid;">
+    <thead>
+        <th style="border: 1px solid;">Id</th>
+        <th style="border: 1px solid;">Name</th>
+        <th style="border: 1px solid;">Email</th>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.List)
+        {
+            <tr style="border: 1px solid;">
+                <td style="border: 1px solid;">@item.Id</td>
+                <td style="border: 1px solid;">@item.Name</td>
+                <td style="border: 1px solid;">@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,11 @@
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\bin\Debug\net6.0\AddNumbersLibrary.deps.json
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\bin\Debug\net6.0\AddNumbersLibrary.dll
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\bin\Debug\net6.0\AddNumbersLibrary.pdb
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\obj\Debug\net6.0\AddNumbersLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\obj\Debug\net6.0\AddNumbersLibrary.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\obj\Debug\net6.0\AddNumbersLibrary.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\obj\Debug\net6.0\AddNumbersLibrary.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\obj\Debug\net6.0\AddNumbersLibrary.dll
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\obj\Debug\net6.0\refint\AddNumbersLibrary.dll
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\obj\Debug\net6.0\AddNumbersLibrary.pdb
+C:\HTML\labs2\HelloWorld\AddNumbersConsole\obj\Debug\net6.0\ref\AddNumbersLibrary.dll

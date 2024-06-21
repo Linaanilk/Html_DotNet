@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.exe
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.deps.json
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.dll
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.pdb
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.dll
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\refint\FileSystemWatcherDemo.dll
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.pdb
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\FileSystemWatcherDemo\obj\Debug\net6.0\ref\FileSystemWatcherDemo.dll

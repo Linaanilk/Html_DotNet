@@ -1,0 +1,17 @@
+﻿@model WebApplication6.Models.Employee
+
+<section>
+    @Html.DisplayName("Id")-@Html.Editor("Id")</br>
+    @Html.DisplayName("FirstName")-@Html.Editor("FirstName")</br>
+    @Html.DisplayName("DateOfBirth")-@Html.Editor("DateOfBirth")</br>
+    @Html.DisplayName("LastName")-@Html.Editor("LastName")<br />
+    @Html.DisplayName("Active")-@Html.Editor("Active")</br>
+
+    <hr />
+
+    @Html.DisplayNameFor(x=>x.Id)-@Html.EditorFor(x=>x.Id)</br>
+    @Html.DisplayNameFor(x => x.FirstName)-@Html.EditorFor(x => x.FirstName)</br>
+    @Html.DisplayNameFor(x => x.LastName)-@Html.EditorFor(x => x.LastName)</br>
+    @Html.DisplayNameFor(x => x.DateOfBirth)-@Html.EditorFor(x => x.DateOfBirth)</br>
+    @Html.DisplayNameFor(x => x.Active)-@Html.EditorFor(x => x.Active)</br>
+</section>

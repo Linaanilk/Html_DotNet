@@ -1,0 +1,47 @@
+ .container {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+    
+ }
+
+ #div1 {
+     background-color: blue;
+     height: 100px;
+     width: 100px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+
+ }
+
+ #div2 {
+     background-color: green;
+     text-align: center;
+     height: 100px;
+     width: 100px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ #div3 {
+     background-color: red;
+     text-align: center;
+     height: 100px;
+     width: 100px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ #div4 {
+     background-color: black;
+     text-align: center;
+     height: 100px;
+     width: 100px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }

@@ -1,0 +1,438 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.PresentationLayer\\Speridian.MagicVilla.PresentationLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.BL\\Speridian.MagicVilla.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.BL\\Speridian.MagicVilla.BL.csproj",
+        "projectName": "Speridian.MagicVilla.BL",
+        "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.BL\\Speridian.MagicVilla.BL.csproj",
+        "packagesPath": "C:\\Users\\lina.anil\\.nuget\\packages\\",
+        "outputPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lina.anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.DAL\\Speridian.MagicVilla.DAL.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.DAL\\Speridian.MagicVilla.DAL.csproj"
+              },
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj"
+              },
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.DAL\\Speridian.MagicVilla.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.DAL\\Speridian.MagicVilla.DAL.csproj",
+        "projectName": "Speridian.MagicVilla.DAL",
+        "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.DAL\\Speridian.MagicVilla.DAL.csproj",
+        "packagesPath": "C:\\Users\\lina.anil\\.nuget\\packages\\",
+        "outputPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lina.anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj"
+              },
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj",
+        "projectName": "Speridian.MagicVilla.Entities",
+        "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj",
+        "packagesPath": "C:\\Users\\lina.anil\\.nuget\\packages\\",
+        "outputPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lina.anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj",
+        "projectName": "Speridian.MagicVilla.Exceptions",
+        "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\lina.anil\\.nuget\\packages\\",
+        "outputPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lina.anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Helpers\\Speridian.MagicVilla.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Helpers\\Speridian.MagicVilla.Helpers.csproj",
+        "projectName": "Speridian.MagicVilla.Helpers",
+        "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Helpers\\Speridian.MagicVilla.Helpers.csproj",
+        "packagesPath": "C:\\Users\\lina.anil\\.nuget\\packages\\",
+        "outputPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lina.anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj"
+              },
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.PresentationLayer\\Speridian.MagicVilla.PresentationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.PresentationLayer\\Speridian.MagicVilla.PresentationLayer.csproj",
+        "projectName": "Speridian.MagicVilla.PresentationLayer",
+        "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.PresentationLayer\\Speridian.MagicVilla.PresentationLayer.csproj",
+        "packagesPath": "C:\\Users\\lina.anil\\.nuget\\packages\\",
+        "outputPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.PresentationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lina.anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.BL\\Speridian.MagicVilla.BL.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.BL\\Speridian.MagicVilla.BL.csproj"
+              },
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Entities\\Speridian.MagicVilla.Entities.csproj"
+              },
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Exceptions\\Speridian.MagicVilla.Exceptions.csproj"
+              },
+              "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Helpers\\Speridian.MagicVilla.Helpers.csproj": {
+                "projectPath": "C:\\HTML\\Magicvilla\\Speridian.MagicVilla\\Speridian.MagicVilla.Helpers\\Speridian.MagicVilla.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

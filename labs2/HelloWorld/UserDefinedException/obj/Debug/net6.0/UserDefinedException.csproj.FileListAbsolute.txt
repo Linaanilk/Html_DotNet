@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\UserDefinedException\bin\Debug\net6.0\UserDefinedException.exe
+C:\HTML\labs2\HelloWorld\UserDefinedException\bin\Debug\net6.0\UserDefinedException.deps.json
+C:\HTML\labs2\HelloWorld\UserDefinedException\bin\Debug\net6.0\UserDefinedException.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\UserDefinedException\bin\Debug\net6.0\UserDefinedException.dll
+C:\HTML\labs2\HelloWorld\UserDefinedException\bin\Debug\net6.0\UserDefinedException.pdb
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\UserDefinedException.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\UserDefinedException.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\UserDefinedException.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\UserDefinedException.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\UserDefinedException.dll
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\refint\UserDefinedException.dll
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\UserDefinedException.pdb
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\UserDefinedException.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\UserDefinedException\obj\Debug\net6.0\ref\UserDefinedException.dll

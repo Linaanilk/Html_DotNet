@@ -1,0 +1,24 @@
+﻿<h1>Current Date: @DateTime.Now</h1>
+<h1>(10+20+30)</h1>
+
+
+@{
+    var a=10;
+    var b=20;
+    var c=a+b;
+
+    var currentDate = DateTime.Now;
+    var tomorrowDate = DateTime.Now.AddDays(1);
+    var colors = new List<string>() { "Red", "Yellow", "Orange" };
+}
+<h1>@c</h1>
+<h1>CurrentDate: @currentDate</h1>
+<h1>TomorrowDate: @tomorrowDate</h1>
+@foreach (var color in colors)
+{
+    <h1>@color</h1>
+}
+
+<h1>@colors.FirstOrDefault()</h1>
+<h1>@@hello</h1>
+

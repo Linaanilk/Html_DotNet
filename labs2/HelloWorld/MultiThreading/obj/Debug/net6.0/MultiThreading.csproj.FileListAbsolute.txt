@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\MultiThreading\bin\Debug\net6.0\MultiThreading.exe
+C:\HTML\labs2\HelloWorld\MultiThreading\bin\Debug\net6.0\MultiThreading.deps.json
+C:\HTML\labs2\HelloWorld\MultiThreading\bin\Debug\net6.0\MultiThreading.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\MultiThreading\bin\Debug\net6.0\MultiThreading.dll
+C:\HTML\labs2\HelloWorld\MultiThreading\bin\Debug\net6.0\MultiThreading.pdb
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\MultiThreading.dll
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\refint\MultiThreading.dll
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\MultiThreading.pdb
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\MultiThreading.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\MultiThreading\obj\Debug\net6.0\ref\MultiThreading.dll

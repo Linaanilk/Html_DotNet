@@ -1,0 +1,54 @@
+﻿@* 
+@model WebApplication11.Models.Employee
+
+<section>
+    <h1>Update Employee</h1>
+    @using (Html.BeginForm("Edit", "Employee", FormMethod.Post))
+    {
+        @Html.HiddenFor(x => x.Id) <!-- Hidden input for employee Id -->
+
+        <div>
+            <label asp-for="Name"></label>
+            @Html.TextBoxFor(x => x.Name)
+            @Html.ValidationMessageFor(x => x.Name)
+        </div>
+
+        <div>
+            <label asp-for="Email"></label>
+            @Html.TextBoxFor(x => x.Email)
+            @Html.ValidationMessageFor(x => x.Email)
+        </div>
+
+        <!-- Add similar fields for other properties of your Employee model -->
+
+        <input type="submit" value="Submit" />
+    }
+</section> *@
+
+@model WebApplication11.Models.Employee
+
+
+
+
+<section>
+    <h1>Update Employee</h1>
+    @using (Html.BeginForm("Edit", "Employee", FormMethod.Post))
+    {
+
+        // @Html.ValidationSummary()
+
+        <div>
+            @Html.DisplayNameFor(x => x.Name)
+            @Html.TextBoxFor(x => x.Name)
+
+        </div>
+        <div>
+            @Html.DisplayNameFor(x => x.Email)
+            @Html.TextBoxFor(x => x.Email)
+
+        </div>
+
+
+        <input type="submit" value="submit" />
+    }
+</section>

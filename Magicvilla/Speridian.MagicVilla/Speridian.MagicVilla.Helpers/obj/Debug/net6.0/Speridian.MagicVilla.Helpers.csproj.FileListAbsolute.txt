@@ -1,0 +1,17 @@
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\bin\Debug\net6.0\Speridian.MagicVilla.Helpers.deps.json
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\bin\Debug\net6.0\Speridian.MagicVilla.Helpers.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\bin\Debug\net6.0\Speridian.MagicVilla.Helpers.pdb
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\bin\Debug\net6.0\Speridian.MagicVilla.Entities.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\bin\Debug\net6.0\Speridian.MagicVilla.Exceptions.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\bin\Debug\net6.0\Speridian.MagicVilla.Entities.pdb
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\bin\Debug\net6.0\Speridian.MagicVilla.Exceptions.pdb
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\Speridian.MagicVilla.Helpers.csproj.AssemblyReference.cache
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\Speridian.MagicVilla.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\Speridian.MagicVilla.Helpers.AssemblyInfoInputs.cache
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\Speridian.MagicVilla.Helpers.AssemblyInfo.cs
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\Speridian.MagicVilla.Helpers.csproj.CoreCompileInputs.cache
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\Speridian.MagicVilla.Helpers.csproj.CopyComplete
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\Speridian.MagicVilla.Helpers.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\refint\Speridian.MagicVilla.Helpers.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\Speridian.MagicVilla.Helpers.pdb
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Helpers\obj\Debug\net6.0\ref\Speridian.MagicVilla.Helpers.dll

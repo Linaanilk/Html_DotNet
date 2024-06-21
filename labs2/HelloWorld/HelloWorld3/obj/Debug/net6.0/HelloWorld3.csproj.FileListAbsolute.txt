@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\HelloWorld3\bin\Debug\net6.0\HelloWorld3.exe
+C:\HTML\labs2\HelloWorld\HelloWorld3\bin\Debug\net6.0\HelloWorld3.deps.json
+C:\HTML\labs2\HelloWorld\HelloWorld3\bin\Debug\net6.0\HelloWorld3.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\HelloWorld3\bin\Debug\net6.0\HelloWorld3.dll
+C:\HTML\labs2\HelloWorld\HelloWorld3\bin\Debug\net6.0\HelloWorld3.pdb
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\HelloWorld3.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\HelloWorld3.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\HelloWorld3.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\HelloWorld3.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\HelloWorld3.dll
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\refint\HelloWorld3.dll
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\HelloWorld3.pdb
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\HelloWorld3.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\HelloWorld3\obj\Debug\net6.0\ref\HelloWorld3.dll

@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\TypeValidation\bin\Debug\net6.0\TypeValidation.exe
+C:\HTML\labs2\HelloWorld\TypeValidation\bin\Debug\net6.0\TypeValidation.deps.json
+C:\HTML\labs2\HelloWorld\TypeValidation\bin\Debug\net6.0\TypeValidation.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\TypeValidation\bin\Debug\net6.0\TypeValidation.dll
+C:\HTML\labs2\HelloWorld\TypeValidation\bin\Debug\net6.0\TypeValidation.pdb
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\TypeValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\TypeValidation.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\TypeValidation.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\TypeValidation.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\TypeValidation.dll
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\refint\TypeValidation.dll
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\TypeValidation.pdb
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\TypeValidation.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\TypeValidation\obj\Debug\net6.0\ref\TypeValidation.dll

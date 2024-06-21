@@ -1,0 +1,12 @@
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\bin\Debug\net6.0\Speridian.MagicVilla.Exceptions.deps.json
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\bin\Debug\net6.0\Speridian.MagicVilla.Exceptions.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\bin\Debug\net6.0\Speridian.MagicVilla.Exceptions.pdb
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\Speridian.MagicVilla.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\Speridian.MagicVilla.Exceptions.AssemblyInfoInputs.cache
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\Speridian.MagicVilla.Exceptions.AssemblyInfo.cs
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\Speridian.MagicVilla.Exceptions.csproj.CoreCompileInputs.cache
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\Speridian.MagicVilla.Exceptions.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\refint\Speridian.MagicVilla.Exceptions.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\Speridian.MagicVilla.Exceptions.pdb
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\ref\Speridian.MagicVilla.Exceptions.dll
+C:\HTML\Magicvilla\Speridian.MagicVilla\Speridian.MagicVilla.Exceptions\obj\Debug\net6.0\Speridian.MagicVilla.Exceptions.csproj.AssemblyReference.cache

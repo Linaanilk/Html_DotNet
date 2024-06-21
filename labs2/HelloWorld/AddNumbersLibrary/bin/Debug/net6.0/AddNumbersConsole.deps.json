@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AddNumbersConsole/1.0.0": {
+        "dependencies": {
+          "AddNumbersLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AddNumbersConsole.dll": {}
+        }
+      },
+      "AddNumbersLibrary/1.0.0": {
+        "runtime": {
+          "AddNumbersLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddNumbersConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddNumbersLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

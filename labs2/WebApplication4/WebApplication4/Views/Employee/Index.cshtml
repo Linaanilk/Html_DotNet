@@ -1,0 +1,30 @@
+﻿
+@model IEnumerable<WebApplication4.Models.Employee>
+
+
+
+<h1>List Of Employees</h1>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+       
+        <tr>
+            <th>Id</th>
+      
+        <th>Name</th>
+        <th>Gender</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                
+
+                <td>@(item.Gender == "Male" ? "Mr" : "Mrs") @item.FirstName @item.LastName</td>
+                <td>@item.Gender</td>
+            </tr>
+        }
+    </thead>
+
+</table>
+
+

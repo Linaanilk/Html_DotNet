@@ -1,0 +1,11 @@
+﻿<h1>ViewData</h1>
+
+<h1>@ViewData["name"]</h1>
+
+
+<ul>
+    @foreach (var item in (List<string>)ViewData["List"])
+    {
+        <li>@item</li>
+    }
+</ul>

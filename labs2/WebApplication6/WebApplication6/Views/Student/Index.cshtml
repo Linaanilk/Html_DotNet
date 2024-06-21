@@ -1,0 +1,51 @@
+﻿@model WebApplication6.Models.Student
+
+<section>
+
+    @using(Html.BeginForm(FormMethod.Post))
+    {
+        <div>
+            @Html.DisplayNameFor(x=>x.Id)
+            @Html.EditorFor(x=>x.Id)
+          
+
+        </div>
+        <div>
+
+           
+            @Html.DisplayNameFor(x => x.Name)
+            @Html.EditorFor(x => x.Name)
+         
+
+        </div>
+        <div>
+           
+            @Html.DisplayNameFor(x => x.Email)
+            @Html.EditorFor(x => x.Email)
+
+        </div>
+    }
+</section>
+<hr/>
+<section>
+    <form asp-controller="student" asp-action="Index" method="post"> 
+    <div>
+        <label asp-for="Id">Id</label>
+        <input type="text" asp-for="Id"/> 
+    </div>
+
+
+    <div>
+        <label asp-for="Name">name</label>
+        <input type="text" asp-for="Name" />
+    </div>
+
+
+    <div>
+        <label asp-for="Email">Email</label>
+        <input type="text" asp-for="Email" />
+    </div>
+
+    <input type="submit" value="submit" />
+    </form>
+</section>

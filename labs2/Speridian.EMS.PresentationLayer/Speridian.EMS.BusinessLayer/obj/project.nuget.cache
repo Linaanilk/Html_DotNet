@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUG6luT46P5L2tlW4B9ALlWw91EIveGSbOTOEf8Ij/TM3wURznhiEBozpcggrl8fpFmcrpmro9f43Q5PRayR/g==",
+  "success": true,
+  "projectFilePath": "C:\\HTML\\labs2\\Speridian.EMS.PresentationLayer\\Speridian.EMS.BusinessLayer\\Speridian.EMS.BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lina.anil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

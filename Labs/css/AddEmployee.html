@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="employeestyle.css">
+</head>
+
+<body>
+    <h1>Add Employee</h1>
+    <div class="container">
+    <form action="http://127.0.0.1:5500/done.html">
+       
+        <label class="col-25" for="fname">Name:</label>
+        <input class="input" type="text" id="fname" name="fname"  required autofocus><br>
+        <br>
+        <br>
+        <label class="col-25" for="birthday">Date Of Birth:</label>
+        <input class="input" type="date" id="birthday" name="birthday" required >
+        <br>
+        <br>
+        <br>
+        <label class="col-25" for="gender">Gender</label>
+        <div>
+        <input  type="radio" name="gender" value="male" required> Male
+        
+        <input  type="radio" name="gender" value="female" > Female
+        </div>
+        <br>
+        <br>
+        <br>
+        <label class="col-25" for="skills">Skills:</label>
+        
+        <select class="input" id="skills" name="skills" required>
+            <option value="">select skills</option>
+            <option value=".net">.Net</option>
+            <option value="pthon">Python</option>
+            <option value="SQL">SQL</option>
+            
+        </select>
+        <br>
+        <br>
+        <br>
+        <label class="col-25" for="skills">Email:</label>
+        <input class="input" type="email" name="" id="" required>
+        <br><br>
+        <label class="col-25" for="pincode">pincode:</label>
+        <input class="input" type="text" name="" id="pincode" pattern="[0-9]{6}" title="error">
+        <br>
+        <br>
+        <label class="col-25" for="">country:</label>
+        <input class="input" type="text" list="country" required>
+        <datalist id="country">
+            <option value="Australia"></option>
+            <option value="India"></option>
+            <option value="United States"></option>
+        </datalist>
+
+        <br>
+       
+        <br>
+        <div class="col-25"></div>
+        <div class="col-50 special">
+        <input type="submit" id="buttonadd" value="Add Employee">
+       </div>
+   
+    </form>
+</div>
+
+</body>
+
+</html>

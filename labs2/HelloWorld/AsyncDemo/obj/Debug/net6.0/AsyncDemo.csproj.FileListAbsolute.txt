@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\AsyncDemo\bin\Debug\net6.0\AsyncDemo.exe
+C:\HTML\labs2\HelloWorld\AsyncDemo\bin\Debug\net6.0\AsyncDemo.deps.json
+C:\HTML\labs2\HelloWorld\AsyncDemo\bin\Debug\net6.0\AsyncDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\AsyncDemo\bin\Debug\net6.0\AsyncDemo.dll
+C:\HTML\labs2\HelloWorld\AsyncDemo\bin\Debug\net6.0\AsyncDemo.pdb
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\AsyncDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\AsyncDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\AsyncDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\AsyncDemo.dll
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\refint\AsyncDemo.dll
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\AsyncDemo.pdb
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\AsyncDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\AsyncDemo\obj\Debug\net6.0\ref\AsyncDemo.dll

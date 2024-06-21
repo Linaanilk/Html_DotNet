@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #div1 {
+          width: 350px;
+          height: 70px;
+          padding: 10px;
+          border: 2px 
+        }
+        </style>
+</head>
+<body>
+    <a href="https://azureauthority.substack.com" target="_blank" >Azure</a>
+    <hr>
+    <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg" alt="hai" width="400" height="400">
+    <hr>
+    <img src="download.jpg" alt="hai" width="400" height="400">
+  
+    <ul style="list-style: georgian;">
+        <li>carrot</li>
+        <li>betroot</li>
+        <li>Onion</li>
+    </ul>
+<hr>
+    <ul type="square">
+        <li>carrot</li>
+        <li>betroot</li>
+        <li>Onion</li>
+    </ul>
+    <hr>
+    <ol>
+        <li>Lucifer</li>
+        <li>black daliya</li>
+        <li>Red chillies</li>
+    </ol>
+    <audio controls src=""></audio>
+    <video controls src=""></video>
+
+    <input type="email" >
+    <input type="date" name="" id="">
+<p>click the button to get your coordinates</p>
+<button onclick="getLocation()">get Location</button>
+<p id="demo"></p>
+
+    <script>
+        const x = document.getElementById("demo");
+        
+        function getLocation() {
+          if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition);
+          } else {
+            x.innerHTML = "Geolocation is not supported by this browser.";
+          }
+        }
+        
+        function showPosition(position) {
+          x.innerHTML = "Latitude: " + position.coords.latitude +
+          "<br>Longitude: " + position.coords.longitude;
+        }
+        </script>
+
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
+<img id="drag1" src="images (1).jpg" draggable="true" ondragstart="drag(event)" width="336" height="69">
+
+<script>
+    function allowDrop(ev) {
+      ev.preventDefault();
+    }
+    
+    function drag(ev) {
+      ev.dataTransfer.setData("text", ev.target.id);
+    }
+    
+    function drop(ev) {
+      ev.preventDefault();
+      var data = ev.dataTransfer.getData("text");
+      ev.target.appendChild(document.getElementById(data));
+    }
+    </script>
+
+</body>
+</html>

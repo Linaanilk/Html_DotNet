@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.exe
+C:\HTML\labs2\HelloWorld\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.deps.json
+C:\HTML\labs2\HelloWorld\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.dll
+C:\HTML\labs2\HelloWorld\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.pdb
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.dll
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\refint\DictionaryDemo.dll
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.pdb
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\DictionaryDemo\obj\Debug\net6.0\ref\DictionaryDemo.dll

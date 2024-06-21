@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\bin\Debug\net6.0\BuiltInDelegates.exe
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\bin\Debug\net6.0\BuiltInDelegates.deps.json
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\bin\Debug\net6.0\BuiltInDelegates.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\bin\Debug\net6.0\BuiltInDelegates.dll
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\bin\Debug\net6.0\BuiltInDelegates.pdb
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\BuiltInDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\BuiltInDelegates.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\BuiltInDelegates.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\BuiltInDelegates.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\BuiltInDelegates.dll
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\refint\BuiltInDelegates.dll
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\BuiltInDelegates.pdb
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\BuiltInDelegates.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\BuiltInDelegates\obj\Debug\net6.0\ref\BuiltInDelegates.dll

@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\EmployeeDataTypeValid.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\EmployeeDataTypeValid.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\EmployeeDataTypeValid.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\EmployeeDataTypeValid.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\bin\Debug\net6.0\EmployeeDataTypeValid.exe
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\bin\Debug\net6.0\EmployeeDataTypeValid.deps.json
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\bin\Debug\net6.0\EmployeeDataTypeValid.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\bin\Debug\net6.0\EmployeeDataTypeValid.dll
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\bin\Debug\net6.0\EmployeeDataTypeValid.pdb
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\EmployeeDataTypeValid.dll
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\refint\EmployeeDataTypeValid.dll
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\EmployeeDataTypeValid.pdb
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\EmployeeDataTypeValid.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\EmployeeDataTypeValid\obj\Debug\net6.0\ref\EmployeeDataTypeValid.dll

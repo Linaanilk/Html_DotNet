@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\VarianceDemo\bin\Debug\net6.0\VarianceDemo.exe
+C:\HTML\labs2\HelloWorld\VarianceDemo\bin\Debug\net6.0\VarianceDemo.deps.json
+C:\HTML\labs2\HelloWorld\VarianceDemo\bin\Debug\net6.0\VarianceDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\VarianceDemo\bin\Debug\net6.0\VarianceDemo.dll
+C:\HTML\labs2\HelloWorld\VarianceDemo\bin\Debug\net6.0\VarianceDemo.pdb
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\VarianceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\VarianceDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\VarianceDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\VarianceDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\VarianceDemo.dll
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\refint\VarianceDemo.dll
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\VarianceDemo.pdb
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\VarianceDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\VarianceDemo\obj\Debug\net6.0\ref\VarianceDemo.dll

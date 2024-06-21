@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\bin\Debug\net6.0\OptionalAndNamedParams.exe
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\bin\Debug\net6.0\OptionalAndNamedParams.deps.json
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\bin\Debug\net6.0\OptionalAndNamedParams.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\bin\Debug\net6.0\OptionalAndNamedParams.dll
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\bin\Debug\net6.0\OptionalAndNamedParams.pdb
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\OptionalAndNamedParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\OptionalAndNamedParams.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\OptionalAndNamedParams.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\OptionalAndNamedParams.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\OptionalAndNamedParams.dll
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\refint\OptionalAndNamedParams.dll
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\OptionalAndNamedParams.pdb
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\OptionalAndNamedParams.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\OptionalAndNamedParams\obj\Debug\net6.0\ref\OptionalAndNamedParams.dll

@@ -1,0 +1,19 @@
+﻿@using WebApplication7.Models
+<h1>ViewData</h1>
+<table style="border: 2px solid;">
+    <thead>
+    <th style="border: 2px solid;">Id</th>
+    <th style="border: 2px solid;">Name</th>
+    <th style="border: 2px solid;">Email</th>
+    </thead>
+    <tbody>
+        @foreach (var item in (List<Employee>)ViewData["List"])
+        {
+            <tr style="border: 2px solid;">
+                <td style="border: 2px solid;">@item.Id</td>
+                <td style="border: 2px solid;">@item.Name</td>
+                <td style="border: 2px solid;">@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>

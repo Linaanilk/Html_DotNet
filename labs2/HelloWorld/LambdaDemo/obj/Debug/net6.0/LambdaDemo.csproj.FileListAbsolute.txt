@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\LambdaDemo\bin\Debug\net6.0\LambdaDemo.exe
+C:\HTML\labs2\HelloWorld\LambdaDemo\bin\Debug\net6.0\LambdaDemo.deps.json
+C:\HTML\labs2\HelloWorld\LambdaDemo\bin\Debug\net6.0\LambdaDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\LambdaDemo\bin\Debug\net6.0\LambdaDemo.dll
+C:\HTML\labs2\HelloWorld\LambdaDemo\bin\Debug\net6.0\LambdaDemo.pdb
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\LambdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\LambdaDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\LambdaDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\LambdaDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\LambdaDemo.dll
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\refint\LambdaDemo.dll
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\LambdaDemo.pdb
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\LambdaDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\LambdaDemo\obj\Debug\net6.0\ref\LambdaDemo.dll

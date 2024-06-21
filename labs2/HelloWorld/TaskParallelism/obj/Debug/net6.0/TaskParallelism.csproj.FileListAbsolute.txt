@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\TaskParallelism\bin\Debug\net6.0\TaskParallelism.exe
+C:\HTML\labs2\HelloWorld\TaskParallelism\bin\Debug\net6.0\TaskParallelism.deps.json
+C:\HTML\labs2\HelloWorld\TaskParallelism\bin\Debug\net6.0\TaskParallelism.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\TaskParallelism\bin\Debug\net6.0\TaskParallelism.dll
+C:\HTML\labs2\HelloWorld\TaskParallelism\bin\Debug\net6.0\TaskParallelism.pdb
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\TaskParallelism.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\TaskParallelism.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\TaskParallelism.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\TaskParallelism.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\TaskParallelism.dll
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\refint\TaskParallelism.dll
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\TaskParallelism.pdb
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\TaskParallelism.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\TaskParallelism\obj\Debug\net6.0\ref\TaskParallelism.dll

@@ -1,0 +1,130 @@
+input[type=submit] {
+    background-color: #0096FF; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  #b2
+  {
+    background-color: rgb(185, 9, 9);
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  #b1
+  {
+    background-color:gray;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(222, 218, 218);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:#0096FF ;
+    text-align: center;
+    padding: 20px 12px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #1100ff;
+    color: white;
+  }
+  li h3
+  {
+    display: block;
+    color:black;
+    text-align: center;
+    
+    text-decoration: none;
+
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    justify-content:left; 
+    max-width: 1100px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+   
+   
+}
+.product-card {
+    width: 20%; /* Set each card to take up half of the container's width with some margin */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 5px; /* Add some margin between cards */
+    border: 2px solid #ccc; 
+    padding: 4px;/* Add a border for visual separation */
+    /* Additional styling for the cards */
+}
+.custom-input {
+    width: 1200px; /* Set the width of the input box */
+    height: 30px; /* Set the height of the input box */
+    font-size: 16px; /* Set the font size of the text inside the input box */
+}
+
+.ligne_verticale {
+    width: 5px;
+    border-left: 5px solid gray;
+    height: 70px;
+  }
+  td{
+    border-bottom: 2px solid lightgray;
+    text-align: left;
+    padding: 10px;
+  }
+table{
+    padding: 5px;
+    margin: auto;
+    width: 900px;
+}
+th
+{
+    text-align: left;
+    padding: 10px;
+}
+h1
+{
+    text-align: center;
+}
+label {
+    font-size: 20px; /* Adjust this value to change the text size */
+}

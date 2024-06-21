@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.MMS.PresentationLayer", "Speridian.MMS.PresentationLayer\Speridian.MMS.PresentationLayer.csproj", "{F07D4B7F-28B7-45E1-9127-699C8D7E9D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.MMS.BusinessLayer", "Speridian.MMS.BusinessLayer\Speridian.MMS.BusinessLayer.csproj", "{9D921309-AF16-450E-A507-2055FA977270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.MMS.DAL", "Speridian.MMS.DAL\Speridian.MMS.DAL.csproj", "{EADAF14B-E18B-41E4-93AC-3E305A3B2C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.MMS.Entities", "Speridian.MMS.Entities\Speridian.MMS.Entities.csproj", "{3347956E-FA86-4DC6-802C-B5EF8A7B571F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speridian.MMS.Exceptions", "Speridian.MMS.Exceptions\Speridian.MMS.Exceptions.csproj", "{3119361D-A229-43CB-A71F-49E8F662ACF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07D4B7F-28B7-45E1-9127-699C8D7E9D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07D4B7F-28B7-45E1-9127-699C8D7E9D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07D4B7F-28B7-45E1-9127-699C8D7E9D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07D4B7F-28B7-45E1-9127-699C8D7E9D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D921309-AF16-450E-A507-2055FA977270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D921309-AF16-450E-A507-2055FA977270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D921309-AF16-450E-A507-2055FA977270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D921309-AF16-450E-A507-2055FA977270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADAF14B-E18B-41E4-93AC-3E305A3B2C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADAF14B-E18B-41E4-93AC-3E305A3B2C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADAF14B-E18B-41E4-93AC-3E305A3B2C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADAF14B-E18B-41E4-93AC-3E305A3B2C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3347956E-FA86-4DC6-802C-B5EF8A7B571F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3347956E-FA86-4DC6-802C-B5EF8A7B571F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3347956E-FA86-4DC6-802C-B5EF8A7B571F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3347956E-FA86-4DC6-802C-B5EF8A7B571F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3119361D-A229-43CB-A71F-49E8F662ACF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3119361D-A229-43CB-A71F-49E8F662ACF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3119361D-A229-43CB-A71F-49E8F662ACF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3119361D-A229-43CB-A71F-49E8F662ACF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A28A0D-D546-4ADA-9CE3-D5D3E514801F}
+	EndGlobalSection
+EndGlobal

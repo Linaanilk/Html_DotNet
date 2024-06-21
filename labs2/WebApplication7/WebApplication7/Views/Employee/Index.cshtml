@@ -1,0 +1,49 @@
+﻿@model WebApplication7.Models.EmployeeModel
+<section>
+    <h1>Using Parameters</h1>
+    @using (Html.BeginForm("SubmitUsingParameter", "Employee", FormMethod.Post))
+    {
+        <div>
+            <label>First Name</label>
+            <input type="text" name="firstName"/>
+        </div>
+        <div>
+            <label>Last Name</label>
+            <input type="text" name="lastName" />
+        </div>
+        <input type="submit" value="submit"/>
+    }
+</section>
+
+<section>
+    <h1>Using FormCollection</h1>
+    @using (Html.BeginForm("SubmitUsingFormCollection", "Employee", FormMethod.Post))
+    {
+        <div>
+            <label>First Name</label>
+            <input type="text" name="firstName" />
+        </div>
+        <div>
+            <label>Last Name</label>
+            <input type="text" name="lastName" />
+        </div>
+        <input type="submit" value="submit" />
+    }
+</section>
+
+<section>
+
+    <h1>Using Strong Binding</h1>
+    @using(Html.BeginForm("SubmitUsingBinding","Employee",FormMethod.Post))
+    {
+        <div>
+            @Html.DisplayNameFor(x=>x.FirstName)
+            @Html.EditorFor(x=>x.FirstName)
+        </div>
+        <div>
+            @Html.DisplayNameFor(x => x.LastName)
+            @Html.EditorFor(x => x.LastName)
+        </div>
+        <input type="submit" value="submit"/>
+    }
+</section>

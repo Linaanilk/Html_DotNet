@@ -1,0 +1,46 @@
+﻿@using WebApplication3.Models Employee
+@{
+    var names = new List<string>() { "Mark", "Paul", "John" };
+
+}
+@*<ul>
+    <li>@names[0]</li>
+    <li>@names[1]</li>
+    <li>@names[2]</li>
+</ul>*@
+
+<ul>
+@foreach(var name in names)
+{
+    <li>@name</li>
+}
+</ul>
+
+@{
+    List<Employee> employees=new List<Employee>()
+{
+    new Employee(){Id=1,Name="Mark",Email="m@gmail.com"},
+    new Employee(){Id=2,Name="David",Email="david@gmail.com"},
+    new Employee(){Id=3,Name="Marlie",Email="mly@gmail.com"},
+};
+}
+<table class="table table-bordered">
+    <thead>
+        <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Employee employee in employees)
+        {
+            <tr>
+                <td>@employee.Id</td>
+                <td>@employee.Name</td>
+                <td>@employee.Email</td>
+            </tr>
+        }
+    </tbody>
+
+</table>

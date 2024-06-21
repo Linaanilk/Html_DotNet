@@ -1,0 +1,14 @@
+C:\HTML\labs2\Works\Works\bin\Debug\net6.0\OddEven.exe
+C:\HTML\labs2\Works\Works\bin\Debug\net6.0\OddEven.deps.json
+C:\HTML\labs2\Works\Works\bin\Debug\net6.0\OddEven.runtimeconfig.json
+C:\HTML\labs2\Works\Works\bin\Debug\net6.0\OddEven.dll
+C:\HTML\labs2\Works\Works\bin\Debug\net6.0\OddEven.pdb
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\OddEven.AssemblyInfoInputs.cache
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\OddEven.AssemblyInfo.cs
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\OddEven.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\OddEven.dll
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\refint\OddEven.dll
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\OddEven.pdb
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\OddEven.genruntimeconfig.cache
+C:\HTML\labs2\Works\Works\obj\Debug\net6.0\ref\OddEven.dll

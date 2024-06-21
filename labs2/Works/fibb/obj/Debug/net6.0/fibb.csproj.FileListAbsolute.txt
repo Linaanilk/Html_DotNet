@@ -1,0 +1,14 @@
+C:\HTML\labs2\Works\fibb\bin\Debug\net6.0\fibb.exe
+C:\HTML\labs2\Works\fibb\bin\Debug\net6.0\fibb.deps.json
+C:\HTML\labs2\Works\fibb\bin\Debug\net6.0\fibb.runtimeconfig.json
+C:\HTML\labs2\Works\fibb\bin\Debug\net6.0\fibb.dll
+C:\HTML\labs2\Works\fibb\bin\Debug\net6.0\fibb.pdb
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\fibb.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\fibb.AssemblyInfoInputs.cache
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\fibb.AssemblyInfo.cs
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\fibb.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\fibb.dll
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\refint\fibb.dll
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\fibb.pdb
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\fibb.genruntimeconfig.cache
+C:\HTML\labs2\Works\fibb\obj\Debug\net6.0\ref\fibb.dll

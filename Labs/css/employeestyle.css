@@ -1,0 +1,80 @@
+.input
+{
+    width: 200px;
+    font-size: 14px;
+    margin: 10px;
+    padding: 12px;
+    border-radius: 4px;
+    
+        width: 400px; /* Set the width of the input box */
+        height: 30px; /* Set the height of the input box */
+        font-size: 16px; /* Set the font size of the text inside the input box */
+    
+    
+    
+    
+}
+label
+{
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+}
+option:checked
+{
+    color: green;
+}
+#button
+{
+    font-size: 20px;
+    color: azure;
+    background-color: blue;
+    float:right
+}
+
+ input[type=text] {
+    border-width: 2px;
+    border-color: red;
+  } 
+
+  input[type=text]:focus {
+   
+    border-color:yellow ;
+  }
+
+  .container
+  {
+    box-sizing: border-box;
+    background-color: antiquewhite;
+  }
+
+  #buttonadd{
+    font-size: 20px;
+    background-color: blue;
+    color:white;
+    cursor:pointer;
+}
+.special
+{
+    display: flex;
+    flex-flow: row-reverse;
+}
+.container
+{
+    border:2px grey solid;
+    padding :20px;
+    background-color:darkgray;
+    height:250px;
+}
+.col-25
+{
+    width:25%;
+    margin-bottom: 5px;
+    float: left;
+}
+.col-50
+{
+    width:50%;
+    margin-bottom: 5px;
+}

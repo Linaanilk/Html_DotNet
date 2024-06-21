@@ -1,0 +1,21 @@
+﻿
+
+<a href="/home/index2">Home-Index2</a><br/>
+
+@Html.ActionLink("Home -Index2", "Index2")<br/>
+<a href="/customer/index">Customer-Index</a><br/>
+
+@Html.ActionLink("Customer - Index", "Index","Customer")<br/>
+
+@{
+    var name = "John Watson";
+}
+@Html.TextBox("t2",name,new{@class="form-control",style="border: 1px solid red"})<br/>
+@Html.CheckBox("t1",true)<br/>
+
+@Html.Hidden("t3",name)
+
+@using (Html.BeginForm())
+{
+    
+}

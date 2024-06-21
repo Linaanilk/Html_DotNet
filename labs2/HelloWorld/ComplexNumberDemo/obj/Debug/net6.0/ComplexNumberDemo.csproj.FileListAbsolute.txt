@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\bin\Debug\net6.0\ComplexNumberDemo.exe
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\bin\Debug\net6.0\ComplexNumberDemo.deps.json
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\bin\Debug\net6.0\ComplexNumberDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\bin\Debug\net6.0\ComplexNumberDemo.dll
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\bin\Debug\net6.0\ComplexNumberDemo.pdb
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\ComplexNumberDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\ComplexNumberDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\ComplexNumberDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\ComplexNumberDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\ComplexNumberDemo.dll
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\refint\ComplexNumberDemo.dll
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\ComplexNumberDemo.pdb
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\ComplexNumberDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\ComplexNumberDemo\obj\Debug\net6.0\ref\ComplexNumberDemo.dll

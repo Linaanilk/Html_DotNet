@@ -1,0 +1,14 @@
+C:\HTML\labs2\Works\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.exe
+C:\HTML\labs2\Works\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.deps.json
+C:\HTML\labs2\Works\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.runtimeconfig.json
+C:\HTML\labs2\Works\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.dll
+C:\HTML\labs2\Works\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.pdb
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.AssemblyInfoInputs.cache
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.AssemblyInfo.cs
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.dll
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\refint\ComplexNumbers.dll
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.pdb
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.genruntimeconfig.cache
+C:\HTML\labs2\Works\ComplexNumbers\obj\Debug\net6.0\ref\ComplexNumbers.dll

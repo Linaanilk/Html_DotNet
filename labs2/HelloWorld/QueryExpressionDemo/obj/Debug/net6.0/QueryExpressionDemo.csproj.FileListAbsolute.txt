@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\bin\Debug\net6.0\QueryExpressionDemo.exe
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\bin\Debug\net6.0\QueryExpressionDemo.deps.json
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\bin\Debug\net6.0\QueryExpressionDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\bin\Debug\net6.0\QueryExpressionDemo.dll
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\bin\Debug\net6.0\QueryExpressionDemo.pdb
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\QueryExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\QueryExpressionDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\QueryExpressionDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\QueryExpressionDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\QueryExpressionDemo.dll
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\refint\QueryExpressionDemo.dll
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\QueryExpressionDemo.pdb
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\QueryExpressionDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\QueryExpressionDemo\obj\Debug\net6.0\ref\QueryExpressionDemo.dll

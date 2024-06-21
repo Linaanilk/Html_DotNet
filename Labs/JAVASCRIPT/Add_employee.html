@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Employee</title>
+</head>
+ 
+<body>
+    <h1>Add Employee</h1>
+    <form action="">
+        <label for="name">Name :</label>
+        <input type="text" id="name" name="name"  required autofocus><br><br>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" required><br><br>
+        <label for="pincode">Pincode</label>
+        <input type="text" id="pincode" pattern="[0-9]{6}" title="It should be 6 digit"><br><br>
+        <label for="dob">Date Of Birth :</label>
+        <input type="date" id="dob" name="dob" required><br><br>
+        <label for="gender">Gender:</label>
+        <input type="radio" name="gender" id="male" checked required>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="female" required>
+        <label for="female">Female</label><br><br>
+        <label for="skills">Skills</label>
+        <select name="skills" id="skills" required>
+            <option value="">Select skills</option>
+            <option value=".Net">.Net</option>
+            <option value="Angular">Angular</option>
+            <option value="SQL">SQL</option>
+            <option value="C">C</option>
+        </select><br><br>
+        <LABEL FOR="country">Country</LABEL>
+        <input type="text" id="country_name" name="country_name" list="country" required>
+        <datalist id="country">
+            <option value="India"></option>>
+            <option value="Australia"></option>
+           
+        </datalist><br><br>
+        <label for="rating">Rating</label>
+        <input type="range" min="0" max="10" value="7" step="1" id="rating" required><br><br>
+        <input  onclick="addemp()" type="button" value="Add Employee">
+ 
+    </form>
+    <script src="employee.js"></script>
+</body>
+ 
+</html>

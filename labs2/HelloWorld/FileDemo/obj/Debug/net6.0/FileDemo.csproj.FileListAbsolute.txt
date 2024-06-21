@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\FileDemo\bin\Debug\net6.0\FileDemo.exe
+C:\HTML\labs2\HelloWorld\FileDemo\bin\Debug\net6.0\FileDemo.deps.json
+C:\HTML\labs2\HelloWorld\FileDemo\bin\Debug\net6.0\FileDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\FileDemo\bin\Debug\net6.0\FileDemo.dll
+C:\HTML\labs2\HelloWorld\FileDemo\bin\Debug\net6.0\FileDemo.pdb
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\FileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\FileDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\FileDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\FileDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\FileDemo.dll
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\refint\FileDemo.dll
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\FileDemo.pdb
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\FileDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\FileDemo\obj\Debug\net6.0\ref\FileDemo.dll

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="	https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+ 
+   <style>
+    
+   </style>
+</head>
+<body>
+    <div class="container ">
+    <input type="text" id="name" readonly><br><br>
+
+  <div class="calculator-keys">
+    <div>
+        <button onclick="appendopp('1')" class="operator btn btn-info">1</button>
+        <button onclick="appendopp('2')" class="operator btn btn-info">2</button>
+        <button onclick="appendopp('3')" class="operator btn btn-info">3</button>
+        <button onclick="appendopp('/')" class="operator btn btn-info">/</button><br><br>
+    
+      </div>
+      <div>
+        <button onclick="appendopp('4')" class="operator btn btn-info">4</button>
+        <button onclick="appendopp('5')" class="operator btn btn-info">5</button>
+        <button onclick="appendopp('6')" class="operator btn btn-info">6</button>
+        <button onclick="appendopp('*')" class="operator btn btn-info">*</button><br><br>
+      </div>
+      <div>
+        <button onclick="appendopp('7')" class="operator btn btn-info">7</button>
+        <button onclick="appendopp('8')" class="operator btn btn-info">8</button>
+        <button onclick="appendopp('9')" class="operator btn btn-info">9</button>
+        <button onclick="appendopp('10')" class="operator btn btn-info">-</button><br><br>
+      </div>
+      <div>
+        <button onclick="clear1()" class="operator btn btn-info">C</button>
+        <button onclick="appendopp('0')" class="operator btn btn-info">0</button>
+        <button onclick="calculate()" class="operator btn btn-info">=</button>
+        <button onclick="appendopp('+')" class="operator btn btn-info">+</button><br><br>
+      </div>
+  </div>
+</div>
+  <script src="calc.js"></script>
+</body>
+</html>

@@ -1,0 +1,199 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+#para1{
+    /* font-weight: bold; */
+    font-size: larger;
+    /* font-style: italic; */
+    font-style: oblique;
+    padding: 20px;
+    width:100px;
+    box-sizing:border-box;
+    /* visibility: hidden */
+   
+
+     
+    
+}
+#para2
+{
+    text-shadow: 2px 2px #FF0000;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    line-height: 4;
+    white-space: normal;   
+}
+#para3
+{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:fixed;
+
+}
+#box1
+{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    border:10px solid;
+    border-color: red;  
+    /* margin: 70px; */
+    border-bottom-style: dotted;
+    border-radius: 10px;
+    margin: 0 auto;
+    visibility: visible;
+   
+    
+}
+#box2
+{
+    
+    height: 800px;
+    width: 800px;
+    background-image: url('download.png');
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-attachment: scroll;
+    border-style: double;
+    position: absolute;
+    top: 500;
+    left: 0;
+    z-index: 2;
+   
+    
+    
+}
+#box3
+{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    /* background-attachment: scroll; */
+    border-style: double;
+    position: absolute;
+    top:900;
+    left:0;
+    z-index: 3;
+     
+}
+.insidebox
+{
+    padding: 20px;
+    width: 300px;
+    box-sizing: border-box;
+}
+#divSizing
+{
+border: 5px solid black;
+
+
+}
+#img
+{
+    opacity: 0.5;
+}
+#imgfloat
+{
+    float:left;
+    cursor: pointer;
+    
+}/*
+a:link {
+    color: red;
+  }
+  
+ 
+  a:visited {
+    color: green;
+  }
+  
+
+  a:hover {
+    color: hotpink;
+  }
+  
+  
+  a:active {
+    color: blue;
+  } */
+
+  #radial
+  {
+    height: 150px;
+  width: 200px;
+  background-image: radial-gradient(red , green, blue);
+   /* transform: rotate(-20deg); */
+   
+   transform: matrix(1,-0.3,0,1,0,0);
+   /* scale(1,1) rotate(20deg) skew(20deg,30deg) */
+  }
+
+#divtransition
+{
+    width:300px;
+    height:300px;
+    background-color: #FF0000;
+    transition: width 2s linear;
+}
+#divtransition:hover
+{
+    width:600px;
+}
+
+#div7 {
+    width: 100px;
+    height: 100px;
+    animation-name: colorchange;
+    animation:colorchange 2s ease 2s infinite;
+    background-color: #FF0000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+  
+  @keyframes colorchange 
+  {
+    0% {
+        left: -50%;
+    }
+    50% {
+        left:150%;
+    }
+    100% {
+        left: -50%;
+    }
+    }
+    
+  #div8 {
+    width: 100px;
+    height: 100px;
+    animation:colorchange 2s linear infinite;
+    background-color: red;
+    position: absolute;
+    margin-left: -100px;
+    top: 50%;
+    left: 50%;
+    
+  }
+  #div9 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    margin-left: -100px;
+    top: 50%;
+    left: 50%;
+    opacity: 0.5;
+   
+  }
+  .cont {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+   
+}

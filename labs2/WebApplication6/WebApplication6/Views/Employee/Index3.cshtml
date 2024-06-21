@@ -1,0 +1,12 @@
+﻿@model WebApplication6.Models.Employee
+
+<section>
+
+    @using(Html.BeginForm(FormMethod.Post))
+    {
+        @Html.EditorForModel()
+
+        <input type="submit" value="submit" />
+    }
+
+</section>

@@ -1,0 +1,44 @@
+﻿@{
+    var loginStatus = false;
+}
+@if(loginStatus)
+{
+    <h1>Welcome John</h1>
+    <button class="btn btn-danger">Logout</button>
+
+}
+else
+{
+    <h1>Welcome Guest</h1>
+    <button class="btn btn-primary">Login</button>
+}
+
+@{
+    var score = 95;
+}
+@if(score>90)
+{
+    <h1>Grade:A</h1>
+}
+else if (score < 90 && score>75)
+{
+    
+    <h1>Grade:B</h1>
+}
+else if (score < 75 && score > 50)
+{
+
+    <h1>Grade:c</h1>
+}
+else
+{
+    <h1>Grade:D</h1>
+}
+
+@{
+    var age = 15;
+}
+<h1>@(age > 18 ? "eligible to vote" : "not eligible to vote")</h1>
+
+
+

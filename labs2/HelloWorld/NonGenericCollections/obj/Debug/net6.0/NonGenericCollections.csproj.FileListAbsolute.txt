@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\NonGenericCollections\bin\Debug\net6.0\NonGenericCollections.exe
+C:\HTML\labs2\HelloWorld\NonGenericCollections\bin\Debug\net6.0\NonGenericCollections.deps.json
+C:\HTML\labs2\HelloWorld\NonGenericCollections\bin\Debug\net6.0\NonGenericCollections.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\NonGenericCollections\bin\Debug\net6.0\NonGenericCollections.dll
+C:\HTML\labs2\HelloWorld\NonGenericCollections\bin\Debug\net6.0\NonGenericCollections.pdb
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\NonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\NonGenericCollections.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\NonGenericCollections.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\NonGenericCollections.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\NonGenericCollections.dll
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\refint\NonGenericCollections.dll
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\NonGenericCollections.pdb
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\NonGenericCollections.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\NonGenericCollections\obj\Debug\net6.0\ref\NonGenericCollections.dll

@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\CSharp3Features\bin\Debug\net6.0\CSharp3Features.exe
+C:\HTML\labs2\HelloWorld\CSharp3Features\bin\Debug\net6.0\CSharp3Features.deps.json
+C:\HTML\labs2\HelloWorld\CSharp3Features\bin\Debug\net6.0\CSharp3Features.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\CSharp3Features\bin\Debug\net6.0\CSharp3Features.dll
+C:\HTML\labs2\HelloWorld\CSharp3Features\bin\Debug\net6.0\CSharp3Features.pdb
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\CSharp3Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\CSharp3Features.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\CSharp3Features.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\CSharp3Features.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\CSharp3Features.dll
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\refint\CSharp3Features.dll
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\CSharp3Features.pdb
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\CSharp3Features.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\CSharp3Features\obj\Debug\net6.0\ref\CSharp3Features.dll

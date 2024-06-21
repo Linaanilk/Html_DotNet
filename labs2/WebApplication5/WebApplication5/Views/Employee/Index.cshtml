@@ -1,0 +1,29 @@
+﻿@model WebApplication5.Models.Employee
+
+@using(Html.BeginForm(FormMethod.Post))
+{
+    <div class="form-group">
+        <label>Id</label>
+        
+    @Html.TextBox("id",Model.Id)
+    @*@Html.TextBoxFor(x=>x.FirstName)*@
+    </div>
+    <div class="from-group">
+        <label>First Name</label>
+        @Html.TextBox("FirstName",Model.FirstName)
+        @*@Html.TextBoxFor(x => x.LastName)*@
+    </div>
+    <div class="from-group">
+        <label>Last Name</label>
+        @Html.TextBox("LastName", Model.LastName)
+    </div>
+    <div class="from-group">
+        <label>Email</label>
+        @Html.TextBox("Email", Model.Email)
+    </div>
+    <div class="from-group">
+        <label>Active</label>
+        @Html.TextBox("Active", Model.Active)
+    </div>
+    <input type="submit" value="submit"/>
+}

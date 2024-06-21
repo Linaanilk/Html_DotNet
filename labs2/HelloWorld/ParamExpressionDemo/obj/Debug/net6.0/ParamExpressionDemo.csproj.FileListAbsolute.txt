@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\bin\Debug\net6.0\ParamExpressionDemo.exe
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\bin\Debug\net6.0\ParamExpressionDemo.deps.json
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\bin\Debug\net6.0\ParamExpressionDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\bin\Debug\net6.0\ParamExpressionDemo.dll
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\bin\Debug\net6.0\ParamExpressionDemo.pdb
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\ParamExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\ParamExpressionDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\ParamExpressionDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\ParamExpressionDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\ParamExpressionDemo.dll
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\refint\ParamExpressionDemo.dll
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\ParamExpressionDemo.pdb
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\ParamExpressionDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\ParamExpressionDemo\obj\Debug\net6.0\ref\ParamExpressionDemo.dll

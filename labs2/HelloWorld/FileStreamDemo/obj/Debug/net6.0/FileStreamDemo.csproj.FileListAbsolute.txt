@@ -1,0 +1,14 @@
+C:\HTML\labs2\HelloWorld\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.exe
+C:\HTML\labs2\HelloWorld\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.deps.json
+C:\HTML\labs2\HelloWorld\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.runtimeconfig.json
+C:\HTML\labs2\HelloWorld\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.dll
+C:\HTML\labs2\HelloWorld\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.pdb
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.AssemblyInfoInputs.cache
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.AssemblyInfo.cs
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.dll
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\refint\FileStreamDemo.dll
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.pdb
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.genruntimeconfig.cache
+C:\HTML\labs2\HelloWorld\FileStreamDemo\obj\Debug\net6.0\ref\FileStreamDemo.dll

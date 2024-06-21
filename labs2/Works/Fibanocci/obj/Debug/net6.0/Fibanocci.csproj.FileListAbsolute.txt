@@ -1,0 +1,14 @@
+C:\HTML\labs2\Works\Fibanocci\bin\Debug\net6.0\Fibanocci.exe
+C:\HTML\labs2\Works\Fibanocci\bin\Debug\net6.0\Fibanocci.deps.json
+C:\HTML\labs2\Works\Fibanocci\bin\Debug\net6.0\Fibanocci.runtimeconfig.json
+C:\HTML\labs2\Works\Fibanocci\bin\Debug\net6.0\Fibanocci.dll
+C:\HTML\labs2\Works\Fibanocci\bin\Debug\net6.0\Fibanocci.pdb
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\Fibanocci.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\Fibanocci.AssemblyInfoInputs.cache
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\Fibanocci.AssemblyInfo.cs
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\Fibanocci.csproj.CoreCompileInputs.cache
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\Fibanocci.dll
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\refint\Fibanocci.dll
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\Fibanocci.pdb
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\Fibanocci.genruntimeconfig.cache
+C:\HTML\labs2\Works\Fibanocci\obj\Debug\net6.0\ref\Fibanocci.dll
